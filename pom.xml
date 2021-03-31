@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <testcontainers.version>1.12.2</testcontainers.version>
     </properties>
 
